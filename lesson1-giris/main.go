@@ -15,6 +15,7 @@ func main(){
 		name3="en"
 		age2 int =25
 		height float32=1.75
+		
 	)
 	fmt.Println(name3,age2,height)
 
