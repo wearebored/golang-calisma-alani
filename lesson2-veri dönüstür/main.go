@@ -5,16 +5,16 @@ import (
 
 )
 func main(){
-	x:=10
-	y:=10.1
-	fmt.Println(x,y)
-
-	
-	y2:=int(y)
-	fmt.Println(x,y2)
+	// x:=10
+	// y:=10.1
+	// fmt.Println(x,y)
 
 
-	fmt.Println(x+int(y))
+	// y2:=int(y)
+	// fmt.Println(x,y2)
 
+
+	// fmt.Println(x+int(y))
+ 
 
 }
